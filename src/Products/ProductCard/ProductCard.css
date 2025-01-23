@@ -1,0 +1,93 @@
+.card-details {
+    background-color: #fff;
+    height: 365px;
+    width: 315px;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-align: left;
+    padding: 20px;
+    border-radius: 5px;
+    position: relative;
+    display: grid;
+}
+
+.card-details:hover {
+    -webkit-box-shadow: 0px 5px 10px 0px rgba(158,158,158,0.32);
+    -moz-box-shadow: 0px 5px 10px 0px rgba(158,158,158,0.32);
+    box-shadow: 0px 5px 10px 0px rgba(158,158,158,0.32);
+}
+
+.card-details:hover .cart-button-cover {
+    display: block;
+}
+
+.card-img {
+    height: 180px;
+    width: auto;
+    padding: 8px;
+    object-fit:contain; 
+}
+
+.card-name {
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.del-price {
+    color: #2A2C31;
+    display: flex;
+    flex-direction: row;
+    font-size: 14px;
+}
+
+.del-price del {
+    margin-right: 4px;
+}
+
+.card-price {
+    color: #228650;
+    font-size: 26px;
+    font-weight: 600;
+}
+
+.card-delivery h4 {
+    color: #228650;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.card-description {
+    text-align: justify;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.cart-button-cover {
+    position: absolute;
+    bottom: 0;
+    display: none;
+}
+
+.cart-button-container {
+    background: rgb(255,255,255);
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 50%, rgba(255,255,255,0.5293767165069152) 75%, rgba(255,255,255,0.08679968569459029) 100%);
+    border-radius: 0px 0px 5px 5px;
+    height: 110px;
+    width: 315px;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.cart-button {
+    background-color: #4240CF;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 700;
+    height: 40px;
+    width: 275px;
+    border-radius: 5px;
+    outline: none;
+    border: 0;
+}

@@ -1,0 +1,8 @@
+.card-container {
+    background-color: #E1E8F0;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-around;
+    padding-top: 22px;
+}

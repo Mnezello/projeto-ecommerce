@@ -1,0 +1,13 @@
+.item-total {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-top: 1px solid #fff;
+    margin-top: 20px;
+}
+
+.item-total h4 {
+    color: #228650;
+    margin: 0;
+    font-weight: 600;
+}

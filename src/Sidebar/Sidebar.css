@@ -1,0 +1,16 @@
+.Sidebar {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    width: 230px;
+}
+
+.sidebar-title {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 10px;
+}
+
+.sidebar-label-container {
+    margin: 0px 0px 0px 20px;
+}

@@ -1,0 +1,19 @@
+.sidebar-free-delivery {
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 62px;
+    margin-bottom: 1em;
+    border-radius: 5px;
+}
+
+.sidebar-title-free-delivery {
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0px 0px 0px 20px;
+}
+
+.input-freeDelivery {
+    margin-right: 18px;
+}

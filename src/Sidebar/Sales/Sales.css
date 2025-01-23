@@ -1,0 +1,20 @@
+.sidebar-sales{
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 4em;
+    margin-top: 2em;
+    margin-bottom: 1em;
+    border-radius: 5px;
+}
+
+.sidebar-title-sales {
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0px 0px 0px 20px;
+}
+
+.input-sale {
+    margin-right: 18px;
+}

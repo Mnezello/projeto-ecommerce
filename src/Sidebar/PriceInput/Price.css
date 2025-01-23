@@ -1,0 +1,14 @@
+.sidebar-price {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 28px;
+}
+
+.input-price {
+    color: rgb(131, 131, 131);
+    border: 1px solid #e4e4e4;
+    border-radius: 3px;
+    padding-left: 10px;
+    margin: 0px 8px 0px 8px;
+}

@@ -1,0 +1,326 @@
+[
+  {
+    "id": 1,
+    "name": "Keyboard Redragon",
+    "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet...",
+    "image": "https://img.terabyteshop.com.br/produto/g/teclado-gamer-dyaus-2-rgb-black-abnt2-k509rgb-pt_127221.jpg",
+    "price": 480,
+    "sale": true,
+    "salePrice": 560,
+    "freeDelivery": false,
+    "tags": [
+      { 
+        "id": "tag1",
+        "slug": "sale"
+      },
+      { 
+        "id": "tag4",
+        "slug": "redragon"
+      },      
+      { 
+        "id": "tag7",
+        "slug": "semi"
+      },
+      { 
+        "id": "tag10",
+        "slug": "teclado"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Keyboard Redragon",
+    "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet...",
+    "image": "https://img.terabyteshop.com.br/produto/g/teclado-gamer-dyaus-2-rgb-black-abnt2-k509rgb-pt_127221.jpg",
+    "price": 580,
+    "sale": false,
+    "salePrice": "",
+    "freeDelivery": true,
+    "tags": [
+      { 
+        "id": "tag2",
+        "slug": "free"
+      },
+      { 
+        "id": "tag4",
+        "slug": "redragon"
+      },      
+      { 
+        "id": "tag8",
+        "slug": "new"
+      },
+      { 
+        "id": "tag10",
+        "slug": "teclado"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Keyboard Redragon",
+    "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet...",
+    "image": "https://img.terabyteshop.com.br/produto/g/teclado-gamer-dyaus-2-rgb-black-abnt2-k509rgb-pt_127221.jpg",
+    "price": 600,
+    "sale": false,
+    "salePrice": "",
+    "freeDelivery": true,
+    "tags": [
+      { 
+        "id": "tag2",
+        "slug": "free"
+      },
+      { 
+        "id": "tag4",
+        "slug": "redragon"
+      },      
+      { 
+        "id": "tag8",
+        "slug": "new"
+      },
+      { 
+        "id": "tag10",
+        "slug": "teclado"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Placa de Vídeo EVGA GTX 1050",
+    "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet...",
+    "image": "https://images3.kabum.com.br/produtos/fotos/sync_mirakl/368153/Placa-de-V-deo-MSI-NVIDIA-GeForce-Gaming-X-GTX-1660-Super-6GB-192-Bits_1694019538_g.jpg",
+    "price": 1100,
+    "sale": false,
+    "salePrice": "",
+    "freeDelivery": false,
+    "tags": [
+      { 
+        "id": "tag3",
+        "slug": "evga"
+      },      
+      { 
+        "id": "tag7",
+        "slug": "semi"
+      },
+      { 
+        "id": "tag9",
+        "slug": "placaDeVideo"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Placa de Vídeo EVGA GTX 1050",
+    "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet...",
+    "image": "https://images3.kabum.com.br/produtos/fotos/sync_mirakl/368153/Placa-de-V-deo-MSI-NVIDIA-GeForce-Gaming-X-GTX-1660-Super-6GB-192-Bits_1694019538_g.jpg",
+    "price": 1000,
+    "sale": true,
+    "salePrice": 1200,
+    "freeDelivery": false,
+    "tags": [
+      { 
+        "id": "tag1",
+        "slug": "sale"
+      },
+      { 
+        "id": "tag3",
+        "slug": "evga"
+      },      
+      { 
+        "id": "tag8",
+        "slug": "new"
+      },
+      { 
+        "id": "tag9",
+        "slug": "placaDeVideo"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Placa de Vídeo EVGA GTX 1050",
+    "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet...",
+    "image": "https://images3.kabum.com.br/produtos/fotos/sync_mirakl/368153/Placa-de-V-deo-MSI-NVIDIA-GeForce-Gaming-X-GTX-1660-Super-6GB-192-Bits_1694019538_g.jpg",
+    "price": 1500,
+    "sale": false,
+    "salePrice": "",
+    "freeDelivery": true,
+    "tags": [
+      { 
+        "id": "tag2",
+        "slug": "free"
+      },
+      { 
+        "id": "tag3",
+        "slug": "evga"
+      },      
+      { 
+        "id": "tag8",
+        "slug": "new"
+      },
+      { 
+        "id": "tag9",
+        "slug": "placaDeVideo"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Headset HyperX",
+    "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet...",
+    "image": "https://a-static.mlcdn.com.br/800x560/fone-headset-hyperx-cloud-alpha-s-mini-jack-3-5-mm-microfone-removivel-preto-azul-hx-hscas-bl-ww-kingston/grupoduascabecasmetavel/3969601/4cab55a5e561229498558924a5d2406b.jpeg",
+    "price": 500,
+    "sale": false,
+    "salePrice": "",
+    "freeDelivery": false,
+    "tags": [
+      { 
+        "id": "tag5",
+        "slug": "hyperfury"
+      },      
+      { 
+        "id": "tag8",
+        "slug": "new"
+      },
+      { 
+        "id": "tag11",
+        "slug": "headset"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Headset HyperX",
+    "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet...",
+    "image": "https://a-static.mlcdn.com.br/800x560/fone-headset-hyperx-cloud-alpha-s-mini-jack-3-5-mm-microfone-removivel-preto-azul-hx-hscas-bl-ww-kingston/grupoduascabecasmetavel/3969601/4cab55a5e561229498558924a5d2406b.jpeg",
+    "price": 450,
+    "sale": true,
+    "salePrice": 500,
+    "freeDelivery": false,
+    "tags": [
+      { 
+      "id": "tag1",
+      "slug": "sale"
+      },
+      { 
+        "id": "tag5",
+        "slug": "hyperfury"
+      },      
+      { 
+        "id": "tag8",
+        "slug": "new"
+      },
+      { 
+        "id": "tag11",
+        "slug": "headset"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Headset HyperX",
+    "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet...",
+    "image": "https://a-static.mlcdn.com.br/800x560/fone-headset-hyperx-cloud-alpha-s-mini-jack-3-5-mm-microfone-removivel-preto-azul-hx-hscas-bl-ww-kingston/grupoduascabecasmetavel/3969601/4cab55a5e561229498558924a5d2406b.jpeg",
+    "price": 420,
+    "sale": false,
+    "salePrice": "",
+    "freeDelivery": true,
+    "tags": [
+      { 
+        "id": "tag2",
+        "slug": "free"
+      },
+      { 
+        "id": "tag5",
+        "slug": "hyperfury"
+      },      
+      { 
+        "id": "tag7",
+        "slug": "semi"
+      },
+      { 
+        "id": "tag11",
+        "slug": "headset"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "CyberPunk Game",
+    "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet...",
+    "image": "https://images-americanas.b2w.io/produtos/2685988364/imagens/jogo-midia-fisica-cyberpunk-2077-para-computador-pc/2685988364_1_xlarge.jpg",
+    "price": 280,
+    "sale": true,
+    "salePrice": 300,
+    "freeDelivery": false,
+    "tags": [
+      { 
+        "id": "tag1",
+        "slug": "sale"
+      },
+      { 
+        "id": "tag6",
+        "slug": "corsair"
+      },      
+      { 
+        "id": "tag8",
+        "slug": "new"
+      },
+      { 
+        "id": "tag12",
+        "slug": "jogo"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "CyberPunk Game",
+    "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet...",
+    "image": "https://images-americanas.b2w.io/produtos/2685988364/imagens/jogo-midia-fisica-cyberpunk-2077-para-computador-pc/2685988364_1_xlarge.jpg",
+    "price": 250,
+    "sale": false,
+    "salePrice": "",
+    "freeDelivery": false,
+    "tags": [
+      { 
+        "id": "tag6",
+        "slug": "corsair"
+      },      
+      { 
+        "id": "tag7",
+        "slug": "semi"
+      },
+      { 
+        "id": "tag12",
+        "slug": "jogo"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "CyberPunk Game",
+    "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet...",
+    "image": "https://images-americanas.b2w.io/produtos/2685988364/imagens/jogo-midia-fisica-cyberpunk-2077-para-computador-pc/2685988364_1_xlarge.jpg",
+    "price": 300,
+    "sale": false,
+    "salePrice": "",
+    "freeDelivery": true,
+    "tags": [
+      { 
+        "id": "tag2",
+        "slug": "free"
+      },
+      { 
+        "id": "tag6",
+        "slug": "corsair"
+      },      
+      { 
+        "id": "tag7",
+        "slug": "semi"
+      },
+      { 
+        "id": "tag12",
+        "slug": "jogo"
+      }
+    ]
+  }
+]
